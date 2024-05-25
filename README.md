@@ -1,6 +1,6 @@
-# Blossmic-Flowers_at-Magical-Night
+# Blossming-Flowers_at-Magical-Night
 
-Welcome to **Blossmic-Flowers_at-Magical-Night**! This project showcases blossmic flowers on a magical night using HTML, CSS, JavaScript, and SCSS. It's designed to impress your friends or crush with a beautiful and enchanting visual display.
+Welcome to **Blossming-Flowers_at-Magical-Night**! This project showcases blossming flowers on a magical night using HTML, CSS, JavaScript, and SCSS. It's designed to impress your friends or crush with a beautiful and enchanting visual display.
 
 ## Table of Contents
 
@@ -16,11 +16,11 @@ Welcome to **Blossmic-Flowers_at-Magical-Night**! This project showcases blossmi
 
 Check out a live demo of the project [here](#).
 
-[Blossming Flowers at Magical Night](assets/images/screenshot.png)
+![Blossming Flowers at Magical Night](assets/images/screenshot.png)
 
 ## Features
 
-- Beautiful blossmic flowers animation
+- Beautiful blossming flowers animation
 - Magical night background
 - Responsive design
 - Easy to customize
@@ -32,13 +32,13 @@ To get a local copy up and running, follow these steps:
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/psycho-manav/Blossmic-Flowers_at-Magical-Night.git
+    git clone https://github.com/psycho-manav/Blossming-Flowers_at-Magical-Night.git
     ```
 
 2. Navigate to the project directory:
 
     ```sh
-    cd Blossmic-Flowers_at-Magical-Night
+    cd Blossming-Flowers_at-Magical-Night
     ```
 
 3. Open `index.html` in your browser to view the project.
