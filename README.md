@@ -16,7 +16,7 @@ Welcome to **Blossming-Flowers_at-Magical-Night**! This project showcases blossm
 
 Check out a live demo of the project [here](#).
 
-![Blossming Flowers at Magical Night](assets/images/screenshot.png)
+[Blossoming Flowers at Magical Night](/assets/images/screenshot.png)
 
 ## Features
 
